@@ -1,0 +1,5 @@
+!.gitignore
+*.bmp
+/barcode
+/barcode.exe
+
